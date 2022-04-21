@@ -1,5 +1,5 @@
 # tic-tac-toe-game
-ReactJS, HTML, CSS & Node.js
+React.js, HTML, CSS & Node.js
 
 Created a tic-tac-toe game that:
 
